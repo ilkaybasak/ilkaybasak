@@ -1,29 +1,35 @@
-# Merhaba, ben İlkay! 👋
+# 👋 Merhaba, ben İlkay Başak
 
-Ege Üniversitesi Bilgisayar Programcılığı 2. sınıf öğrencisiyim. Yazılım alanında kendimi geliştirmeye devam ediyorum.
-
-- 🔭 Frontend üzerine projeler üretiyorum.  
-- 🌱 Backend ve veritabanları konusunda öğrenmeye devam ediyorum. 
-- 💬 İngilizce B1 seviyesindeyim,aktif olarak geliştirmekteyim.  
-- 🤝 Takım çalışmasına açığım.  
-
----
-
-### Kullandığım Teknolojiler 
-- HTML, CSS, JavaScript (Orta seviye)
-- Python (Başlangıç seviyesi)  
-- PHP (Başlangıç seviyesi)  
-- C# (Başlangıç seviyesi)  
-- Git  
+🎓 Bilgisayar Programcılığı 2. sınıf öğrencisiyim.  
+💻 Orta düzey **C ve C++** bilgisine sahibim, Qt ile basit projeler geliştirdim.  
+🌐 **HTML & CSS ile web tasarımı** yapabiliyorum.  
+🐍 Başlangıç seviyesinde **Python** bilgim var.  
+🖌 Başlangıç seviyesinde **Adobe Photoshop** kullanabiliyorum.  
+📊 Microsoft Office uygulamalarını etkin şekilde kullanabiliyorum.  
+🏢 Şu anda **Barko Elektronik** firmasında staj yapmaktayım.  
+🌐 İngilizce seviyem: **B1**
 
 ---
 
-### Hakkımda  
-Boş zamanlarımda spor yapmayı, okumayı ve yeni teknolojiler keşfetmeyi seviyorum. Sürekli öğrenmeye, araştırmaya ve ekip çalışmasına önem veriyorum.
+## 🔧 Teknik Beceriler
+- **Programlama Dilleri:** C, C++, Python (başlangıç)  
+- **Framework:** Qt  
+- **Web:** HTML, CSS  
+- **Ofis Uygulamaları:** Word, Excel, PowerPoint  
+- **Tasarım:** Adobe Photoshop (başlangıç)
 
 ---
 
-📫 Bana ulaşmak için:  
-- E-posta: ilkaybasak3@gmail.com  
-- LinkedIn: [linkedin.com/in/ilkay-basak](https://www.linkedin.com/in/ilkay-basak)
+## 📂 Öne Çıkan Projeler
+- [Personel Yönetim Sistemi](https://github.com/ilkaybasak/PersonelYonetimSistemi) – Qt C++ ile geliştirilmiş basit bir personel yönetim uygulaması
 
+---
+
+## 🌐 Bana Ulaşın
+- [GitHub](https://github.com/ilkaybasak)  
+- [LinkedIn](https://www.linkedin.com/in/ilkay-basak)  
+- 📧 ilkaybasak3@gmail.com
+
+---
+
+✨ Daha fazla proje ve çalışmalarımı repolarımda bulabilirsiniz!
