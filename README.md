@@ -22,6 +22,7 @@
 
 ## 📂 Öne Çıkan Projeler
 - [Personel Yönetim Sistemi](https://github.com/ilkaybasak/PersonelYonetimSistemi) – Qt C++ ile geliştirilmiş basit bir personel yönetim uygulaması
+- [QuickChat](https://github.com/ilkaybasak/QuickChat)
 
 ---
 
